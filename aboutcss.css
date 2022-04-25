@@ -1,0 +1,77 @@
+
+.skills button{
+font-size: 22px;
+text-align: center;
+letter-spacing: 2px;
+border: none;
+border-radius: 20px;
+padding: 8px;
+width: 200px;
+background-color: #00999c;
+color: white;
+cursor: pointer;
+}
+.skills button:hover{
+	transition: 1s;
+	background-color: #ecf5f5;
+	color: #00999c;
+
+}
+.inner-section{
+	background:url('sp2.jpg')no-repeat; 
+}
+/*@media screen  and (max-width: 1200px){
+	.inner-section{
+		padding: 80px;
+	}
+}
+@media screen  and (max-width: 1000px){
+.about{
+	background-size: 100%;
+	padding: 100px 40px;
+}
+.inner-section{
+	width: 100%;
+}
+}
+@media screen and (max-width: 600px)
+{
+	.about{
+		padding: 0;
+	}
+	.inner-section{
+		padding: 60px;
+	}
+	.skills button{
+		font-size: 19px;
+		padding: 5px;
+		width: 160px;
+
+	}
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

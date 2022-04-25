@@ -1,0 +1,201 @@
+html
+{
+    scroll-behavior: smooth;
+}
+h2
+{
+  font-family: Rowdies !important;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  font-size: 3.2rem;
+  color: rgb(37, 36, 36);
+}
+.navbar-toggler-icon, .navbar,.nav-link
+{
+   background-color:#ee4035;
+   color:  white;
+   padding-bottom: 10px;
+   padding-top: 20px;
+   
+}
+
+.nav-link:hover
+{
+   color: rgb(37, 36, 36);
+}
+
+.navbar-brand
+{
+   color: white;
+   font-family: Pacifico !important;
+   font-size: 1.6rem;
+   font-weight: 100;
+}
+
+
+.nav-link
+{
+   font-size: large;
+}
+.navbar-toggler
+{
+   border: 1px solid white;
+   padding: 5px 10px 5px 10px !important;
+   opacity: 90%;
+}
+.navbar-toggler-icon
+{
+   padding-top: 3px;
+}
+.jumbotron h1
+{
+  font-family: Pacifico !important;
+  padding-top: 70px;
+  padding-bottom: 10px;
+  font-size: 4.5rem;
+}
+
+.jumbotronJ1 h2
+{
+  font-family: Rowdies !important;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  font-size: 2.5rem;
+  color: white;
+  
+}
+.jumbotron p
+{
+  font-family:Balsamiq Sans ;
+  font-size: 1.4em;
+  padding-bottom: 40px;
+  padding-top: 20px;
+  
+}
+.jumbotronJ1
+{
+   background-color:#ee4035;
+   color: white;
+  
+}
+.jumbotronJ2
+{
+   background-color:white;
+   color: rgb(37, 36, 36);
+  
+}
+.bgcolor
+{
+   background-color:#ee4035;
+}
+.text{
+margin-top: -70px;
+}
+.img-padding
+{
+    padding-top: 60px;
+}
+
+.footer-padding
+{
+   padding-bottom: 60px;
+}
+.footer-font
+{
+   font-family: Pacifico !important;
+   color:  #ee4035;
+}
+
+.footer-copyright-padding
+{
+   padding-top: 65px;
+   padding-bottom: 20px;
+}
+
+.footer-signature-padding
+{
+   padding-top: 35px;
+   padding-bottom: 20px;
+}
+.footer-socialicon-padding
+{
+   padding-top: 35px;
+   padding-bottom: 20px;
+}
+
+.footer-padding-ex
+{
+   padding-bottom: 10px;
+}
+.img-app
+{
+   
+   padding: 5px;
+}
+.launcher
+{
+   
+   padding-top: 105px;
+   padding-bottom: 20px;
+}
+.launcher-backgroung
+{
+   color: #ee4035;
+}
+.font-thank-you
+{
+   font-family: Pacifico !important;
+   color: #ee4035;
+}
+
+
+
+
+
+
+@media (min-width: 320px)
+{
+   
+
+.footer-socialicon-padding
+{
+   padding-top: 35px;
+   padding-bottom: 0px;
+}
+
+
+}
+
+@media (min-width: 414px)
+{
+   
+
+.footer-socialicon-padding
+{
+   padding-top: 35px;
+   padding-bottom: 0px;
+}
+
+
+}
+@media(min-width:600px)
+{
+   .footer-copyright-padding
+{
+   padding-top: 65px;
+   padding-bottom: 20px;
+}
+
+.footer-signature-padding
+{
+   padding-top: 65px;
+   padding-bottom: 20px;
+}
+.footer-socialicon-padding
+{
+   padding-top: 65px;
+   padding-bottom: 20px;
+}
+
+
+}
